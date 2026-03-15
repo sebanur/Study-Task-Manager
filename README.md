@@ -24,10 +24,8 @@ This project was created as part of a Web Development JavaScript course. The goa
 ## Installation
 
 To run the project, open your terminal and run:
-
-```bash
 npm install
-npm run dev```
+npm run dev
 
 
 ## Live Demo
