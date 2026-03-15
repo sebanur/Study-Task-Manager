@@ -34,7 +34,6 @@ The project is deployed on Netlify.
 
 ## Project Preview
 
-Below is a screenshot of the live application:
-![Study Task Manager Screenshot](assets/proje-ekran-goruntusu.png)
+A screenshot of the live application can be found in the assets folder in this repository.
 
 
