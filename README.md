@@ -1,15 +1,15 @@
 # Study Task Manager
 
-Bu proje React kullanılarak geliştirilmiş basit bir görev yönetim uygulamasıdır.
+This project is a simple task management application developed using React.
 
-## Özellikler
+## Features
 
-- Görev ekleme
-- Görev listeleme
-- Görev güncelleme
-- Görev silme
+- Add tasks
+- List tasks
+- Update tasks
+- Delete tasks
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - React
 - JavaScript
@@ -17,18 +17,23 @@ Bu proje React kullanılarak geliştirilmiş basit bir görev yönetim uygulamas
 - CSS
 - Vite
 
-## Proje Amacı
+## Project Purpose
 
-Bu proje Web Geliştirme Javascript eğitimi kapsamında oluşturulmuştur. Amaç React kullanarak basit bir TODO uygulaması geliştirmektir.
+This project was created as part of a Web Development JavaScript course. The goal is to build a simple TODO application using React.
 
-## Kurulum
+## Installation
 
-Projeyi çalıştırmak için terminalde:
+To run the project, open your terminal and run:
 
+```bash
 npm install
-
 npm run dev
 
-## Canlı Demo
 
-Proje Netlify üzerinden yayınlanacaktır.
+## Live Demo
+
+The project is deployed on Netlify.
+
+## Project Preview
+![Study Task Manager Screenshot](assets/proje-ekran-goruntusu.png)
+
