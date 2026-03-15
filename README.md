@@ -34,6 +34,6 @@ The project is deployed on Netlify.
 
 ## Project Preview
 
-A screenshot of the live application can be found in the assets folder in this repository.
+A screenshot of the live application can be found in the src-assets folder in this repository.
 
 
