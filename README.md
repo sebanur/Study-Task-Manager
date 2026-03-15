@@ -27,12 +27,13 @@ To run the project, open your terminal and run:
 
 ```bash
 npm install
-npm run dev
-Live Demo
+npm run dev ```
+
+## Live Demo
 
 The project is deployed on Netlify.
 
-Project Preview
+## Project Preview
 
 Below is a screenshot of the live application:
 ![Study Task Manager Screenshot](assets/proje-ekran-goruntusu.png)
