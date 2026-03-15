@@ -29,7 +29,6 @@ To run the project, open your terminal and run:
 npm install
 npm run dev
 
-
 ## Live Demo
 
 The project is deployed on Netlify.
