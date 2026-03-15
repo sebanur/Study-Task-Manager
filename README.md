@@ -27,7 +27,8 @@ To run the project, open your terminal and run:
 
 ```bash
 npm install
-npm run dev ```
+npm run dev```
+
 
 ## Live Demo
 
