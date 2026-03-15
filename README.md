@@ -35,6 +35,6 @@ The project is deployed on Netlify.
 ## Project Preview
 
 Below is a screenshot of the live application:
-![Study Task Manager Screenshot](proje-ekran-goruntusu.png) 
+![Study Task Manager Screenshot](assets/proje-ekran-goruntusu.png)
 
 
