@@ -30,7 +30,7 @@ npm run dev
 
 ## Live Demo
 
-The project is deployed on Netlify.
+The project is deployed on Vercel.
 
 ## Project Preview
 
